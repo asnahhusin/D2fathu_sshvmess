@@ -14,3 +14,6 @@ pastikan kamu sudah punya akun github dan terlogin. klik logo pork di atas yg ga
 * tcp proxy railway arahkan ke port 8881
 * port agro tunnel zerotrust SSH arahkan ke port 8880
 * port argo tunnel zero trust v2ray/vmess arahkan ke 8001
+
+# TEMPAT AMBIL TOKEN ZEROTRUST
+https://zero.j1btnl.workers.dev/
